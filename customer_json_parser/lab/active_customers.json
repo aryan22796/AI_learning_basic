@@ -1,0 +1,14 @@
+[
+  {
+    "customerId": 101,
+    "customerName": "Aisha Khan",
+    "email": "aisha@example.com",
+    "customerStatus": "active"
+  },
+  {
+    "customerId": 103,
+    "customerName": "Sara Patel",
+    "email": "sara@example.com",
+    "customerStatus": "active"
+  }
+]

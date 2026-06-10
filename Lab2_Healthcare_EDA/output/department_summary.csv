@@ -1,0 +1,5 @@
+department,patient_id_count,total_cost_sum,total_cost_mean,visits_mean,age_mean
+Cardiology,8,14002.0,1750.25,4.75,41.25
+Endocrinology,8,20403.5,2550.44,7.0,51.38
+General,7,2650.0,378.57,1.43,33.57
+Pulmonology,7,17852.5,2550.36,8.14,48.14

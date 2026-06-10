@@ -1,0 +1,5 @@
+age_group,patient_id_count,total_cost_mean,total_cost_sum,visits_mean
+Young (0-30),2,1550.0,3100.0,5.0
+Middle (31-45),14,1203.73,16852.25,3.36
+Senior (46-60),12,2404.56,28854.75,7.25
+Elderly (60+),2,3050.5,6101.0,8.5

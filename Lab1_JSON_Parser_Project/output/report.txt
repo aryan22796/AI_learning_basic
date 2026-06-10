@@ -1,0 +1,7 @@
+Active Customer Report
+======================
+Total active customers: 3
+
+101 - Aisha Khan (aisha@example.com)
+103 - Sara Patel (sara@example.com)
+104 - Mila Zhang (mila@example.com)

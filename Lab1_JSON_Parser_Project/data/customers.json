@@ -1,0 +1,6 @@
+[
+  {"id": 101, "name": "Aisha Khan", "status": "active", "email": "aisha@example.com"},
+  {"id": 102, "name": "Leon Wu", "status": "inactive", "email": "leon@example.com"},
+  {"id": 103, "name": "Sara Patel", "status": "active", "email": "sara@example.com"},
+  {"id": 104, "name": "Mila Zhang", "status": "active", "email": "mila@example.com"}
+]

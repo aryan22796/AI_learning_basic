@@ -1,0 +1,54 @@
+HEALTHCARE EXPLORATORY DATA ANALYSIS REPORT
+============================================================
+
+SUMMARY STATISTICS
+------------------------------------------------------------
+Total Unique Patients: 30
+Total Records: 30
+Average Age: 43.77
+Total Cost: 54908.0
+Average Cost per Patient: 1830.27
+Average Visits per Patient: 5.37
+Total Visits: 161
+Max Cost: 3200.25
+Min Cost: 250.0
+
+
+CONDITION ANALYSIS
+------------------------------------------------------------
+              patient_id_count  age_mean  age_min  age_max  total_cost_sum  total_cost_mean  visits_mean
+condition                                                                                               
+Asthma                       7     48.14       29       58         17852.5          2550.36         8.14
+Diabetes                     8     51.38       41       63         20403.5          2550.44         7.00
+Hypertension                 8     41.25       32       56         14002.0          1750.25         4.75
+Normal                       7     33.57       28       40          2650.0           378.57         1.43
+
+
+DEPARTMENT ANALYSIS
+------------------------------------------------------------
+               patient_id_count  total_cost_sum  total_cost_mean  visits_mean  age_mean
+department                                                                             
+Cardiology                    8         14002.0          1750.25         4.75     41.25
+Endocrinology                 8         20403.5          2550.44         7.00     51.38
+General                       7          2650.0           378.57         1.43     33.57
+Pulmonology                   7         17852.5          2550.36         8.14     48.14
+
+
+AGE GROUP ANALYSIS
+------------------------------------------------------------
+                patient_id_count  total_cost_mean  total_cost_sum  visits_mean
+age_group                                                                     
+Young (0-30)                   2          1550.00         3100.00         5.00
+Middle (31-45)                14          1203.73        16852.25         3.36
+Senior (46-60)                12          2404.56        28854.75         7.25
+Elderly (60+)                  2          3050.50         6101.00         8.50
+
+
+CONDITION vs DEPARTMENT PIVOT
+------------------------------------------------------------
+department    Cardiology  Endocrinology  General  Pulmonology
+condition                                                    
+Asthma                 0              0        0            7
+Diabetes               0              8        0            0
+Hypertension           8              0        0            0
+Normal                 0              0        7            0

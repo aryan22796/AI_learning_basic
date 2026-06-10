@@ -1,0 +1,5 @@
+condition,patient_id_count,age_mean,age_min,age_max,total_cost_sum,total_cost_mean,visits_mean
+Asthma,7,48.14,29,58,17852.5,2550.36,8.14
+Diabetes,8,51.38,41,63,20403.5,2550.44,7.0
+Hypertension,8,41.25,32,56,14002.0,1750.25,4.75
+Normal,7,33.57,28,40,2650.0,378.57,1.43
