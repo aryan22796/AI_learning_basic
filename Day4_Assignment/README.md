@@ -11,10 +11,16 @@ This folder contains a complete assignment set for Day 2 + Day 3 topics.
   - This is the dataset the candidate will use.
 - basic/assignment_basic.py
   - Simple tasks for beginners.
+- basic/assignment_basic.ipynb
+  - Notebook version with step-by-step explanations.
 - intermediate/assignment_intermediate.py
   - Practical data analysis and OOP practice.
+- intermediate/assignment_intermediate.ipynb
+  - Notebook version with guided examples.
 - advanced/assignment_advanced.py
   - Higher-level analytics and object-oriented pipeline design.
+- advanced/assignment_advanced.ipynb
+  - Advanced notebook with OOP and analytics walkthrough.
 
 ## Candidate instructions
 1. Read the dataset first.
